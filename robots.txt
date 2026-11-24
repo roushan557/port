@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roushan.io/sitemap.xml
